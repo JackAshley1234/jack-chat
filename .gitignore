@@ -1,2 +1,4 @@
 /hello.py
 /mqtttest.py
+/build/*
+/dist/*
